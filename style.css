@@ -1,14 +1,59 @@
 .donate-1st{
+    background-image: url(donation8.jpg);
     text-align: center;
-
 }
 .donate-2end{
     text-align: center;
+    padding-top: 40px;
     
+}
+.donate-3rd{
+    text-align: center;
+    padding-top: 40px;
+}
+.paragrap-color{
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+#para{
+    text-align: center;
+    font-size: 70%;
+}
+.our-plan{
+    box-shadow: gray;
+    margin: 5px;
+    background-color: azure;
+    border-radius: 10px;
+}
+.our-plan2{
+    padding-left: 40px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.our-plan3{
+    padding-left: 40px;
+    background-color: antiquewhite;
+    border-radius: 10px
 }
 body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
     font-size: 35px;
+    color: white;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: small;
+    font-weight: 700;
+    color: white;;
+
+}
+.plan-three{
+    display: flex;
+    padding-left: 60px;
 }
