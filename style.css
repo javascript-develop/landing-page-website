@@ -25,14 +25,15 @@
     margin: 5px;
     background-color: azure;
     border-radius: 10px;
+    padding-left: 20px;
 }
 .our-plan2{
-    padding-left: 40px;
+    padding-left: 20px;
     background-color: aliceblue;
     border-radius: 10px;
 }
 .our-plan3{
-    padding-left: 40px;
+    padding-left: 20px;
     background-color: antiquewhite;
     border-radius: 10px
 }
@@ -56,4 +57,33 @@ h1{
 .plan-three{
     display: flex;
     padding-left: 60px;
+}
+.half-width{
+    width: 50%;
+    display: flex;
+}
+.half-width img{
+    width: 130%;
+    padding-left: 50px;
+}
+.half-end{
+    display: flex;
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.half-end img{
+    width: 250%;
+    padding-left: 20%;
+}
+.get-update{
+    display: flex;
+    text-align: center;
+    padding-left: 350px;
+    padding-top: 40px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(20, 231, 239);
+    background-size: 100%;
 }
